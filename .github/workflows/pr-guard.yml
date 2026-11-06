@@ -11,4 +11,4 @@ permissions:
 
 jobs:
     guard:
-        uses: huntabyte/actions/.github/workflows/guard-fork-main.yml@05db87e09dddd0860ccc68ea650ece903a1cc898 # main branch as of 2025-08-24
+        uses: huntabyte/actions/.github/workflows/guard-fork-main.yml@main
